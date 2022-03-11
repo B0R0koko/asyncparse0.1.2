@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: AsyncParse
+Version: 0.1.2
+Summary: AsyncParse is a library allowing you to make multiple http requests asynchronously
+Home-page: UNKNOWN
+Author: Mironov Mihail
+Author-email: devborokoko@gmail.com
+License: MIT
+Description: AsyncParse is a library allowing you to make multiple http requests asynchronously using proxies.
+        Also module has built-in error handling and headers handling allowing to make more requests without getting ip banned.
+        
+        
+        AsyncParse 0.1.2 (11.03.2022) - First release (basic functionality added)
+Keywords: webscraping
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
